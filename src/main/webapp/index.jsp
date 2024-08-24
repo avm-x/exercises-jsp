@@ -58,9 +58,9 @@
         </li>
         <br>
         <li>
-            [o] 9.- Create an application to display HTTP header information using JSP, and display session information.
+            [x] 9.- Create an application to display HTTP header information using JSP, and display session information.
             <br>
-            <a href="./.jsp">click here.</a>
+            <a href="./ex9.jsp">click here.</a>
         </li>
         <br>
         <li>
