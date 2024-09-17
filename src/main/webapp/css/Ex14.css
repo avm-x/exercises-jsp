@@ -1,0 +1,148 @@
+@charset "UTF-8";
+
+  body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      height: 100vh;
+      flex-direction: column;
+  }
+  .container {
+      display: flex;
+      width: 80%;
+      margin: 50px auto;
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .form-container, .table-container {
+      flex: 1;
+      padding: 20px;
+	max-height: 500px;
+      
+  }
+  
+  .table-container {
+  overflow: auto;
+  }
+  
+  h2 {
+      text-align: center;
+      color: #333;
+  }
+  label {
+      display: block;
+      margin: 10px 0 5px;
+      color: #555;
+  }
+  input[type="text"], input[type="number"], select {
+      width: 100%;
+      padding: 10px;
+      margin: 5px 0 20px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+  }
+  input[type="submit"] {
+      width: 100%;
+      background-color: #4CAF50;
+      color: white;
+      padding: 14px 20px;
+      margin: 8px 0;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+  }
+  input[type="submit"]:hover {
+      background-color: #45a049;
+  }
+  table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+  }
+  th, td {
+      padding: 12px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+  }
+  th {
+      background-color: #4CAF50;
+      color: white;
+  }
+  .actions {
+      display: flex;
+      justify-content: space-around;
+  }
+  .actions button {
+      background-color: #f44336;
+      color: white;
+      border: none;
+      padding: 8px 12px;
+      border-radius: 4px;
+      cursor: pointer;
+  }
+  .actions button.update {
+      background-color: #2196F3;
+  }
+  .actions button:hover {
+      opacity: 0.8;
+  }
+  
+
+
+  .updateForm-form-container {
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      width: 300px;
+  }
+  .updateForm-form-container h2 {
+      margin-bottom: 20px;
+      color: #333;
+  }
+  .updateForm-form-container label {
+      display: block;
+      margin-bottom: 8px;
+      color: #555;
+  }
+  .updateForm-form-container input[type="text"],
+  .updateForm-form-container input[type="number"] {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 20px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+  }
+  .updateForm-form-container input[type="submit"] {
+      width: 100%;
+      padding: 10px;
+      background-color: #28a745;
+      border: none;
+      border-radius: 4px;
+      color: #fff;
+      font-size: 16px;
+      cursor: pointer;
+  }
+  .updateForm-form-container input[type="submit"]:hover {
+      background-color: #218838;
+  }
+  
+    .regForm-btn {
+      width: 100%;
+      padding: 10px;
+      background-color: #52b86a;
+      border: none;
+      border-radius: 4px;
+      color: #fff;
+      font-size: 16px;
+      cursor: pointer;
+  }
+  .regForm-btn:hover {
+      background-color: #68c17c;
+  }

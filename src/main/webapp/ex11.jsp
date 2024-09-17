@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Ex11</title>
 </head>
 <body>
-	<h2>fucking bitches they all r the same</h2>
+	<h1>Exercise 11: Create a JSP filter that prints the IP address.</h1>	
+	
 </body>
 </html>

@@ -64,45 +64,40 @@
         </li>
         <br>
         <li>
-            [] 10.-Write a program to display a digital clock using JSP.
+            [x] 10.- Write a program to display a digital clock using JSP.
             <br>
-            <a href="./.jsp">click here.</a>
+            <a href="./ex10.jsp">click here.</a>
         </li>
         <br>
         <li>
-            [] 11.- Create a JSP filter that prints the IP address.
+            [x] 11.- Create a JSP filter that prints the IP address.
             <br>
-            <a href="./.jsp">click here.</a>
+            <a href="./ex11.jsp">click here.</a>
         </li>
         <br>
         <li>
-            [] 12.- Write a program in JSP to display multiple filters.
+            [x] 12.- Write a program in JSP to display multiple filters.
             <br>
-            <a href="./.jsp">click here.</a>
+            <a href="./ex12.jsp">click here.</a>
         </li>
         <br>
         <li>
-            [] 13.- Develop an application in JSP to create, read, and delete cookies in JSP.
+            [x] 13.- Develop an application in JSP to create, read, and delete cookies in JSP.
             <br>
-            <a href="./.jsp">click here.</a>
+            <a href="./ex13.jsp">click here.</a>
+        </li>
+        <br>
+
+        <li>
+            [x] 14.- Write a program in JSP to display, insert, update, and delete data from a database table.
+            <br>
+            <a href="./ex14.jsp">click here.</a>
         </li>
         <br>
         <li>
-            [] 14.- Create an application in JSP to upload a file.
+            [o] 15.- Develop an application in JSP to create a custom tag.
             <br>
-            <a href="./.jsp">click here.</a>
-        </li>
-        <br>
-        <li>
-            [] 15.- Write a program in JSP to display, insert, update, and delete data from a database table.
-            <br>
-            <a href="./.jsp">click here.</a>
-        </li>
-        <br>
-        <li>
-            [] 16.- Develop an application in JSP to create a custom tag.
-            <br>
-            <a href="./.jsp">click here.</a>
+            <a href="./ex15.jsp">click here.</a>
         </li>
         <br>
         
